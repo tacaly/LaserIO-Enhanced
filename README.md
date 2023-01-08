@@ -31,3 +31,6 @@ https://github.com/Direwolf20-MC/LaserIO/pull/80
 
 Show card type name and color on the card GUI #120
 https://github.com/Direwolf20-MC/LaserIO/pull/120
+
+## Disclaimer
+This is in no way/shape/form ment to harm/hurt the original author. This "mod" is ONLY for a faster build/release CI to see what works and what don't.
