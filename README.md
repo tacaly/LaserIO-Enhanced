@@ -5,7 +5,7 @@
   <a href="https://discord.gg/aNjHXvkPck">Discord</a> •
   <a href="#file-structure">Structure</a> •
   <a href="#snapshot">Snapshot</a><br>
-  Can't have DireWire without Wires!
+  Can't have DireWire without Wires with enhancements!
   </p>
 
 <img src="LaserIO.jpg" alt="LaserIO"><br>
