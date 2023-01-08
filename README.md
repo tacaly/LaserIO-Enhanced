@@ -33,4 +33,4 @@ Show card type name and color on the card GUI #120
 https://github.com/Direwolf20-MC/LaserIO/pull/120
 
 ## Disclaimer
-This is in no way/shape/form ment to harm/hurt the original author. This "mod" is ONLY for a faster build/release CI to see what works and what don't.
+This is in no way/shape/form ment to harm/hurt the original author. This "mod" is ONLY for a faster build/release CI to see what works and what don't. Please download the original Mod from Direworlf20 (https://www.curseforge.com/minecraft/mc-mods/laserio)
