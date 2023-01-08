@@ -1,0 +1,12 @@
+{
+  "type": "laserio:cardclear",
+  "group": "laserio",
+  "ingredients": [
+    {
+      "item": "laserio:card_item"
+    }
+  ],
+  "result": {
+    "item": "laserio:card_item"
+  }
+}
