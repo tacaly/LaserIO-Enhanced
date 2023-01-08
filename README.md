@@ -11,7 +11,9 @@
 <img src="LaserIO.jpg" alt="LaserIO"><br>
 [![Build](https://github.com/tacaly/LaserIO-Enhanced/actions/workflows/build.yml/badge.svg)](https://github.com/tacaly/LaserIO-Enhanced/actions/workflows/build.yml)
 
-The plugin is called "LaserIO-Enhanced" and it allows players to link different machines together in their Minecraft world. The plugin adds a new item to the game called "nodes" which can be placed on the ground like any other block. Once placed, players can right-click on a node to access its GUI, which allows them to connect the node to other machines in the world.
+### THIS MOD IS EXPERIMENTAL
+
+The mod is called "LaserIO-Enhanced" and it allows players to link different machines together in their Minecraft world. The plugin adds a new item to the game called "nodes" which can be placed on the ground like any other block. Once placed, players can right-click on a node to access its GUI, which allows them to connect the node to other machines in the world.
 
 To connect a node to a machine, the player must simply right-click on the machine with the node in hand. The node will then need to be linked to the machine with the GUI config and will display the machine's current status (e.g. active, inactive) by it's "Laser" lines comming from the "node". Players can connect as many machines as they want to a single node, and can even connect multiple nodes together to create a network of connected machines.
 
