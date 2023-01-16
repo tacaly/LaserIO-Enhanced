@@ -2,7 +2,7 @@
   <img src="LaserIO_logo.png" alt="LaserIO"><br>
   <a href="https://www.youtube.com/watch?v=o22Pq9NmTSY">Mod video</a> •
   <a href="https://github.com/tacaly/LaserIO-Enhanced/actions/workflows/build.yml">Build</a> •
-  <a href="https://discord.gg/aNjHXvkPck">Discord</a> •
+  <a href="https://discord.gg/XmGbysd58r">Discord</a> •
   <a href="#file-structure">Structure</a> •
   <a href="#snapshot">Snapshot</a><br>
   Can't have DireWire without Wires with enhancements!
